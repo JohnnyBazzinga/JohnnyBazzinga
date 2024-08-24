@@ -3,8 +3,11 @@
 # 👋 Hi, I'm João Bastos!
 
 [![Linkedin Badge](https://img.shields.io/badge/-João_Bastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaobastos99/)](https://www.linkedin.com/in/joaobastos99/) 
-[![GitHub Badge](https://img.shields.io/badge/-João_Bastos-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)
-[![Twitter Badge](https://img.shields.io/badge/-@joaobastos_-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
+[![GitHub Badge](https://img.shields.io/badge/-João_Bastos-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JohnnyBazzinga)](https://github.com/JohnnyBazzinga)
+[![Instagram Badge](https://img.shields.io/badge/-JohnnyBazzinga-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/johnnybazzinga/)](https://www.instagram.com/johnnybazzinga/)
+[![Website Badge](https://img.shields.io/badge/-My%20Website-red?style=flat-square&logo=internet-explorer&logoColor=white&link=https://joaobastos.pt/)](https://joaobastos.pt/)
+
+---
 
 ## 🚀 About Me
 
