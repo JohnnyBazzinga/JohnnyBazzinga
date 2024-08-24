@@ -1,65 +1,69 @@
-# 👋 Olá, sou o João Bastos!
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-João_Bastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/in/joaobastos99/) 
+# 👋 Hi, I'm João Bastos!
+
+[![Linkedin Badge](https://img.shields.io/badge/-João_Bastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaobastos99/)](https://www.linkedin.com/in/joaobastos99/) 
 [![GitHub Badge](https://img.shields.io/badge/-João_Bastos-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)
 [![Twitter Badge](https://img.shields.io/badge/-@joaobastos_-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 💻 **Software Developer** na **GID**.
-- 🧬 Trabalho na **Unidade de Sistemas de Epidemiologia e Apoio à Clínica**, onde ajudo a transformar dados complexos em informações úteis para a saúde pública.
-- 🌍 Localização: **Lisboa, Portugal**.
+- 💻 **Software Developer** at **GID**.
+- 🧬 I work in the **Unit for Epidemiology Systems and Clinical Support**, where I help transform complex data into actionable insights for public health.
+- 🌍 Based in: **Lisbon, Portugal**.
 
-## 🌟 Um pouco mais sobre mim...
+## 🌟 A Bit More About Me...
 
-Quando não estou imerso em código, podes encontrar-me a explorar novos cafés em Lisboa ou mergulhado num bom livro de ficção científica. Acredito no poder da tecnologia para melhorar vidas e estou sempre à procura de novas formas de aplicar as minhas competências para resolver problemas reais.
+When I'm not coding, you'll likely find me planning my next trip to China. I'm deeply passionate about Chinese culture, and my frequent travels there allow me to explore its rich cultural tapestry as well as the latest technological trends. Lisbon is my home base, but China is where I find inspiration and new ideas.
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
-- **Linguagens:** Python, JavaScript, SQL
-- **Ferramentas:** Git, Docker, Jenkins
+- **Languages:** Python, JavaScript, SQL
+- **Tools:** Git, Docker, Jenkins
 - **Frameworks:** React, Django, Flask
-- **Bases de Dados:** MySQL, PostgreSQL
+- **Databases:** MySQL, PostgreSQL
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
-![As tuas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=johnnybazzinga&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnybazzinga&show_icons=true&theme=radical)
 
-## 🧩 O que estou a aprender atualmente?
+## 🧩 What I'm Currently Learning
 
-Estou sempre em busca de novos conhecimentos, mas recentemente tenho focado em:
+I'm always eager to expand my knowledge, but recently I've been focusing on:
 
-- **Machine Learning e IA**: Explorando como estes campos podem impactar a saúde pública.
-- **DevOps**: Automatização e integração contínua para melhorar a eficiência dos meus projetos.
+- **Machine Learning and AI:** Exploring how these fields can impact public health.
+- **DevOps:** Continuous integration and automation to improve project efficiency.
+- **Chinese Culture and Language:** Deepening my understanding of China, both culturally and linguistically, to connect even more profoundly with this fascinating country.
 
-## ✉️ Contacta-me
+## ✉️ Get in Touch
 
-Se quiseres falar sobre tecnologia, trocar ideias ou discutir novos projetos, não hesites em contactar-me:
+If you'd like to talk tech, exchange ideas, discuss new projects, or simply share stories about China, feel free to reach out:
 
-- **E-mail:** joaobastos@spms.min-saude.pt
-- **Telefone:** +351 211 545 600
+- **Email:** joaobastos@spms.min-saude.pt
+- **Phone:** +351 211 545 600
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
 ### **Software Developer - GID**
-**Unidade de Sistemas de Epidemiologia e Apoio à Clínica, Direção de Sistemas de Informação**
+**Unit for Epidemiology Systems and Clinical Support, Information Systems Directorate**
 
-Trabalho na SPMS, onde estou envolvido no desenvolvimento de sistemas que apoiam a tomada de decisões na área da saúde, desde o acompanhamento epidemiológico até ao suporte clínico.
+At SPMS, I contribute to the development of systems that support decision-making in healthcare, from epidemiological monitoring to clinical support.
 
-**Localização:** Avenida da República, 61, 1050-189 Lisboa, Portugal
-
----
-
-## 🎨 Curiosidades
-
-- 🎮 **Hobbies:** Gamer nas horas vagas, com uma queda por jogos de estratégia.
-- ☕ **Combustível:** Sobrevivo com uma combinação saudável de café e novas ideias.
-- 📚 **Leitura Atual:** "Neuromancer" de William Gibson.
+**Location:** Avenida da República, 61, 1050-189 Lisbon, Portugal
 
 ---
 
-> "A tecnologia é o que nos permite sonhar com um futuro melhor - e eu estou aqui para contribuir com o meu código para tornar esses sonhos realidade."
+## 🎨 Fun Facts
+
+- 🌏 **Passion for China:** I frequently travel to China, exploring everything from bustling metropolises to serene historical temples.
+- 🎮 **Hobbies:** A strategy game enthusiast in my spare time.
+- ☕ **Fuel:** I run on a healthy mix of coffee and new ideas.
+- 📚 **Current Read:** *Neuromancer* by William Gibson.
+
+---
+
+> "Technology enables us to dream of a better future—I'm here to contribute my code to turn those dreams into reality."
 
 ---
