@@ -21,10 +21,13 @@ When I'm not coding, you'll likely find me planning my next trip to China. I'm d
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, SQL
-- **Tools:** Git, Docker, Jenkins
-- **Frameworks:** React, Django, Flask
-- **Databases:** MySQL, PostgreSQL
+- **Languages:** PHP (Laravel, Symfony, Vanilla PHP), Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3 (SASS/LESS)
+- **Tools & Platforms:** Git, Docker, Jenkins, Composer, PHPUnit, Nginx, Linux (Ubuntu, CentOS), CI/CD Pipelines
+- **Frameworks & Libraries:** Laravel, Symfony, React, Next.js, Angular, Django, Flask, Express.js
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **APIs & Protocols:** RESTful APIs, GraphQL, WebSockets, OAuth2, JWT Authentication
+- **Testing & Quality::** PHPUnit, Jest, Cypress, Pytest, Selenium, Postman
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Azure, Google Cloud Platform, Terraform
 
 ## 📈 GitHub Stats
 
